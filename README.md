@@ -8,8 +8,6 @@
 - [Implemented Algorithms](#implemented-algorithms)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project showcases my personal implementations of popular data structures and algorithms in C++. It’s designed as a playground for experimenting with and understanding core concepts of data structures and algorithms, all built from scratch.
